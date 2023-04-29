@@ -1,3 +1,8 @@
+
+Take a look at Makefile to know how to run and check lrzip container
+
+
+
 lrzip - Long Range ZIP or LZMA RZIP
 ===================================
 
