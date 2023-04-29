@@ -2,7 +2,6 @@
 *.o
 *.lo
 config.*
-Makefile
 Makefile.in
 .deps
 .libs
@@ -37,3 +36,5 @@ regressiontest.out
 decompress_demo
 liblrzip_demo
 
+
+test/models
